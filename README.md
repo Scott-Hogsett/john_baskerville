@@ -1,4 +1,4 @@
 # JohnBaskerville
 [Johnbaskerville]
 
-[Scott](https://scott-hogsett.github.io/JohnBaskerville/)
+[Scott](https://scott-hogsett.github.io/john_baskerville/johnbaskerville1.html)
