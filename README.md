@@ -5,9 +5,10 @@
 
 History of type
 ================
+[History of type](https://scott-hogsett.github.io/john_baskerville/historyoftype.html)
 
-#5th of November
+# 5th of November
 [Baskerville 2](https://scott-hogsett.github.io/john_baskerville/johnbaskerville2.html)
 
-#8th of November
+# 8th of November
 [List of Typefaces](https://scott-hogsett.github.io/john_baskerville/typefaces.html)
