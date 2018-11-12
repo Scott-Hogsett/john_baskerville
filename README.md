@@ -6,6 +6,9 @@
 # 5th of November
 [Baskerville 2](https://scott-hogsett.github.io/john_baskerville/johnbaskerville2.html)
 
+# 12 of November
+[Baskerville 3](https://scott-hogsett.github.io/john_baskerville/johnbaskerville3.html)
+
 History of type
 ================
 # 29th of October
@@ -13,3 +16,4 @@ History of type
 
 # 8th of November
 [List of Typefaces](https://scott-hogsett.github.io/john_baskerville/typefaces.html)
+
