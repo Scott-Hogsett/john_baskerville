@@ -14,6 +14,6 @@ History of type
 
 [History of type 1](https://scott-hogsett.github.io/john_baskerville/historyoftype1.html)
 
-[History of type 2](https://scott-hogsett.github.io/john_baskerville/typefaces.html)
+[History of type 2](https://scott-hogsett.github.io/john_baskerville/historyoftype2.html)
 
-[History of type 3](https://scott-hogsett.github.io/john_baskerville/historyoftype.html)
+[History of type 3](https://scott-hogsett.github.io/john_baskerville/historyoftype3.html)
