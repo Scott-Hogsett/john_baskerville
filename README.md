@@ -1,6 +1,6 @@
 # JohnBaskerville
 [Johnbaskerville]
-#29th of October
+# 29th of October
 [Baskerville 1](https://scott-hogsett.github.io/john_baskerville/johnbaskerville1.html)
 
 # 5th of November
