@@ -9,6 +9,9 @@
 # 12th of November
 [Baskerville 3](https://scott-hogsett.github.io/john_baskerville/johnbaskerville3.html)
 
+# 19th of November
+[Baskerville 3](https://scott-hogsett.github.io/john_baskerville/johnbaskerville4.html)
+
 History of type
 ================
 
