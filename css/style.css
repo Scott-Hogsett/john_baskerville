@@ -14,7 +14,7 @@ body {
     max-width: 670px;
     margin: auto; 
     background-color:floralwhite;
-        color: #222222;
+    color: #222222;
 }
 
 h1, h2, h3 {
@@ -67,7 +67,7 @@ a:hover {
     color: darkblue;
 }
 
-/*---------- VAVIGATION------------*/
+/*---------- NAVIGATION------------*/
 
 nav {
     position: fixed;

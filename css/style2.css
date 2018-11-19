@@ -1,0 +1,65 @@
+body {
+    background-color: aqua;
+    width: 75%;
+    max-width: 670px;
+    margin: auto;
+}
+
+h1, h2, h3 {
+    font-family: "Noto Sans", sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: "Arial Narrow", sans-serif;
+    font-size: 1em;
+}
+
+        
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;    
+}
+
+/*--------STYLING LINKS--------*/
+
+a {
+    color:cornflowerblue;
+}
+
+a:hover {
+    color: darkblue;
+}
+    
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: burlywood;
+    padding: 0.5em 0;
+    font-size: 0.75em;    
+}
+
+nav ul {
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing:uppercase; 
+    font-size: 2em;
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+}
+
+nav a:link {color: #fff}
+
+nav a:visited {color:#fff}
+
+nav a:hover {border-bottom: none; color: #000}
