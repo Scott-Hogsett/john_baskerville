@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color:floralwhite;
     width: 75%;
     max-width: 670px;
     margin: auto;
@@ -10,14 +10,36 @@ h1, h2, h3 {
     text-align: center;
 }
 
-p {
-    font-family: "Arial Narrow", sans-serif;
-    font-size: 1em;
+h1 {
+    padding-top: 1em;
+    padding-top: 1em;
+    font-size: 4em;
+    color: cadetblue;   
 }
 
+h2 {
+    font-size: 2em;  
+}
+
+#jenson, #garamont, #bodoni, #caslon, #baskerville, #fonts {
+    font-family: "Apple Chancery", cursive;
+    color: cadetblue;
+    font-size: 1.5em;
+}
+p {
+    font-family: "Noto Sans", sans-serif;
+    font-size: 1.2em;   
+}
+
+.small-text {
+    font-size: 0.01; !important
+    text-align: center;
+    padding-bottom: 1em;
+}
         
 table, th, td {
-    border: 1px solid black;
+    border: 3px solid cadetblue;
+    text-align: left;
     border-collapse: collapse;
 }
 th, td {
@@ -27,12 +49,18 @@ th, td {
 
 /*--------STYLING LINKS--------*/
 
-a {
-    color:cornflowerblue;
+a:link, a:visited {
+    background-color:floralwhite;
+    color: cadetblue;!important
+    padding: 0.2em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
 
-a:hover {
-    color: darkblue;
+
+a:hover, a:active {
+    background-color:aqua;
 }
     
 nav {
@@ -41,9 +69,9 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: burlywood;
-    padding: 0.5em 0;
+    background-color:cadetblue;
     font-size: 0.75em;    
+    color: aqua;
 }
 
 nav ul {
@@ -55,11 +83,15 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin: 20px;
+    margin: 10px;
 }
 
-nav a:link {color: #fff}
+nav a:link {color:cadetblue; font-size: 1em; padding: 10px;}
 
-nav a:visited {color:#fff}
+nav a:visited {color:cadetblue}
 
 nav a:hover {border-bottom: none; color: #000}
+
+
+
+
