@@ -6,7 +6,7 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: "Noto Sans", sans-serif;
+    font-family: 'Libre Baskerville', serif;
     text-align: center;
 }
 
@@ -26,8 +26,9 @@ h2 {
     color: cadetblue;
     font-size: 1.5em;
 }
+
 p {
-    font-family: "Noto Sans", sans-serif;
+    font-family: 'Libre Baskerville', serif;
     font-size: 1.2em;   
 }
 
@@ -42,6 +43,7 @@ table, th, td {
     text-align: left;
     border-collapse: collapse;
 }
+
 th, td {
     padding: 5px;
     text-align: left;    
