@@ -1,0 +1,184 @@
+body {
+    width: 50%;
+    max-width: 780px;
+    margin: auto; 
+}
+
+
+.v1-title {
+    font-family: "Libre Baskerville", serif;
+    font-size: 4.5em;
+    line-height: 2px;
+    padding-left: 10px;
+
+}
+
+.v1-subtitle {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 2.2em;
+    line-height: 0.1em;
+}
+
+.v1-paragraph1 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.5em; 
+    padding-top: 3em;
+    line-height: 1.5em;
+}
+
+.v1-paragraph2::first-letter { 
+    font-size: 300%;
+    color: black;
+    line-height: 1px;
+}
+
+.v1-paragraph2 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.3em;
+    padding-top: 20px;
+    
+}
+
+.v1-paragraph3 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1em;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    
+}
+
+.v1-blockquote {
+    opacity: 0.3;
+    font-size: 1.8em;
+    padding-bottom: 40px;
+}
+
+.cite {
+    font-size: 0.6em;
+    font-family: 'libre baskerville', serif;
+    opacity: 1;
+}
+
+.horizontal {
+    border-top: 1px solid red;
+    border-radius: 10px;
+}
+
+section {
+    margin-top: 30px;
+    padding-bottom: 3opx;
+    
+}
+/*-------------THIS IS THE END OF VERSION 1------------------*/
+
+
+.v2-title {
+    font-family: 'Oswald', sans-serif;
+    font-size:7em;
+    line-height: 2px;
+    padding-left: 10px;
+}
+
+.v2-subtitle {
+    font-family: 'Oswald', sans-serif;
+    font-size: 3.5em;
+    line-height: 0.1em;
+}
+
+.v2-paragraph1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5em; 
+    padding-top: 3em;
+    line-height: 1.5em;
+}
+
+.v2-paragraph2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 100%;
+    color: black;
+    
+}
+
+.v2-paragraph3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1em;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.v2-blockquote {
+    font-family: 'Oswald', sans-serif;
+    opacity: 0.3;
+    font-size: 1.8em;
+    padding-bottom: 40px;
+    
+}
+
+.cite2 {
+    font-size: 0.6em;
+    font-family: 'Oswald', sans-serif;
+    opacity: 1;
+    
+}
+
+section {
+    margin-top: 60px;
+    padding-bottom: 60px;
+    
+}
+
+/*-------------THIS IS THE END OF VERSION 2------------------*/
+
+
+.v3-title {
+    font-family: 'Poppins', sans-serif;
+    font-size:5em;
+    line-height: 2px;
+    padding-left: 10px;
+}
+
+.v3-subtitle {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5em;
+    line-height: 0.1em;
+}
+
+.v3-paragraph1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5em; 
+    padding-top: 3em;
+    line-height: 1.5em;
+}
+
+.v3-paragraph2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 100%;
+    color: black;
+    
+}
+
+.v3-paragraph3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1em;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    
+}
+
+.v3-blockquote {
+    font-family: 'Poppins', sans-serif;
+    opacity: 0.3;
+    font-size: 1.8em;
+    padding-bottom: 40px;
+    
+}
+
+.cite3 {
+    font-size: 0.6em;
+    font-family: 'Oswald', sans-serif;
+    opacity: 1;
+    
+}
+
+
+/*-------------THIS IS THE END OF VERSION 3------------------*/
