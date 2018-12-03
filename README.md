@@ -15,6 +15,11 @@
 # 26th of November
 [Baskerville 5](https://scott-hogsett.github.io/john_baskerville/johnbaskerville5.html)
 
+# 3rd of December
+[Baskerville 6](https://scott-hogsett.github.io/john_baskerville/johnbaskerville6.html)
+
+# 3rd of December
+[Baskerville 7](https://scott-hogsett.github.io/john_baskerville/johnbaskerville7.html)
 
 
 History of type

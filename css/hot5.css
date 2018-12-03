@@ -181,4 +181,11 @@ section {
 }
 
 
+@media only screen and (max-width: 600px) { /*EVERYYTHING WITHIN THESE TAGS WILL APPEAR AFETER THIS POINT*/
+    body {
+        background-color: lightblue;
+    }
+}
+
+
 /*-------------THIS IS THE END OF VERSION 3------------------*/
