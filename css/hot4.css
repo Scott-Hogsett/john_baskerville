@@ -49,6 +49,17 @@ th, td {
     text-align: left;    
 }
 
+.top-table {
+    background-color: cadetblue;
+    color: aliceblue;   
+}
+
+tr {
+    color: cadetblue;
+    background-color: aliceblue;
+    
+}
+
 /*--------STYLING LINKS--------*/
 
 a:link, a:visited {
