@@ -1,0 +1,261 @@
+/* ------ CSS RESET ------*/
+
+* {
+    padding:0;
+    font-size: 100%;
+    letter-spacing: 0;
+}
+
+/* ----------- MAIN STYLING -----------*/
+
+body {
+    width: 75%;
+    max-width: 670px;
+    margin: auto; 
+    background-color:floralwhite;
+    color: #222222;
+}
+
+header {
+    padding-bottom: 5em;
+    
+}
+
+h1, h2, h3 {
+    font-weight: normal;
+    color: cornflowerblue;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
+
+p, li, blockquote {
+    margin-bottom: 1.5em;
+    line-height: 1.4;
+    font-family: 'Libre Baskerville', serif;
+}
+
+p {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.5;
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 3.998em;
+    margin-top: 2em;
+    margin-bottom: 0em;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h2 {
+    font-size: 2.827em;
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h3 {
+    font-size: 2.999em;
+    margin-top: 0em;
+    margin-bottom: 0.4em;
+    font-family: 'Libre Baskerville', serif;
+}
+
+blockquote {
+    hanging-punctuation: first;
+    text-indent: 0.5em;
+}
+
+header h2 {
+    font-style: italic;
+    font-size: 2.35em;
+    color:cornflowerblue;
+}
+
+.v1-blockquote {
+    opacity: 0.3;
+    font-size: 1.8em;
+    padding-bottom: 40px;
+}
+
+.cite {
+    font-size: 0.6em;
+    font-family: 'libre baskerville', serif;
+    opacity: 1;
+}
+
+
+/*---- Styling Links -------*/ 
+
+a:link, a:visited {
+    background-color:floralwhite;
+    color: cadetblue;!important
+    padding: 0.2em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color:floralwhite;
+}
+    
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color:cadetblue;
+    font-size: 0.50em;    
+    color: aqua;
+}
+
+nav ul {
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing:uppercase; 
+    font-size: 2em;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+nav a:link {color:cadetblue; font-size: 1em; padding: 10px;}
+
+nav a:visited {color:cadetblue}
+
+nav a:hover {border-bottom: none; color: #000}
+
+/*-----------Blockquote-------------*/
+
+blockquote {
+    padding: 1em;
+    font-size: 1.75em;
+    color: #777;
+}
+
+blockquote cite {
+    font-size: 1em;
+}
+
+/*-----------IMAGES----------*/
+
+img {
+    display: block;
+    margin: 4em auto;
+    padding: 0;
+    max-width: 100%;
+}
+
+.baskerville-pic {
+    display: block;
+    margin: 1em;
+    padding: 0;
+    max-width: 100%;
+    
+}
+
+/*--------------TABLE--------------------*/
+
+caption {
+    padding: 1em;
+    font-size: 1.5em;
+    color: cadetblue;
+}
+
+table, th, td {
+    border: 3px solid cadetblue;
+    text-align: left;
+    border-collapse: collapse;
+    align-content: center;
+    
+}
+
+th {
+    font-size: 1.5em;
+    padding: 10px;
+}
+
+td {
+    text-align: left;  
+    font-size: 1em;
+    padding: 5px;
+}
+
+.top-table {
+    background-color: blue;
+    color: aliceblue;   
+}
+
+tr {
+    color: cadetblue;
+    background-color: aliceblue;
+    
+}
+
+
+/*-------------FOOTER---------------*/
+
+footer {
+    text-align: center;
+    font-size: 0.75em;
+    padding: 0.75em;
+}
+
+hr {
+    margin: 3em 0;
+    height: 1px;
+    background-color: cornflowerblue;
+    color: aqua;
+    border: 0 none;
+}
+
+/*------------------STYLING BOTTOM LINKS----------------*/
+
+.connections{
+    position: relative;
+    margin: auto;
+    display: inline;
+    margin: 20px, 0;
+    padding: 1em;
+    
+}
+
+.connections ul {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.connections li{
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.connections a:link {
+    border-bottom: none;
+}
+
+.connection img {
+    opacity: 0.5;
+    border: none;
+        
+    }
+
+.connections a:hover img {
+    opacity: 1.0;
+    border-bottom: none;
+    transition: all 0,8s ease-in-out;
+    transform: scale(1.2);
+    
+}
+
+#jenson, #garamont, #caslon {
+    font-family: "Apple Chancery", cursive;
+    color: cadetblue;
+    font-size: 1.5em;
+}
