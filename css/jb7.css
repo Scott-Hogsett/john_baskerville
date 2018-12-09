@@ -23,7 +23,7 @@ header {
 
 h1, h2, h3 {
     font-weight: normal;
-    color: cornflowerblue;
+    color: #575265;
     text-align: center;
     font-family: 'Libre Baskerville', serif;
 }
@@ -69,7 +69,7 @@ blockquote {
 header h2 {
     font-style: italic;
     font-size: 2.35em;
-    color:cornflowerblue;
+    color: #575265;
 }
 
 .v1-blockquote {
@@ -89,7 +89,7 @@ header h2 {
 
 a:link, a:visited {
     background-color:floralwhite;
-    color: cadetblue;!important
+    color: blue;!important
     padding: 0.2em;
     text-align: center;
     text-decoration: none;
@@ -106,7 +106,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color:cadetblue;
+    background-color: #A67F8C;
     font-size: 0.50em;    
     color: aqua;
 }
@@ -123,11 +123,12 @@ nav ul li {
     margin: 10px;
 }
 
-nav a:link {color:cadetblue; font-size: 1em; padding: 10px;}
+nav a:link {color: #A67F8C; font-size: 1em; padding: 10px;}
 
-nav a:visited {color:cadetblue}
+nav a:visited {color: #A67F8C}
 
-nav a:hover {border-bottom: none; color: #000}
+nav a:hover {border-bottom: none; color: #A67F8C transition: all 1,5s ease-in-out;
+    transform: scale(1.1);}
 
 /*-----------Blockquote-------------*/
 
