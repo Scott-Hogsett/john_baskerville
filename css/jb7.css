@@ -81,6 +81,16 @@ p {
     color: white;
 }
 
+.purple-p {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.5;
+    line-height: 1.5;
+    padding-left: 1em;
+    padding-right: 1em;
+    color: #706677;
+    
+}
+
 h1 {
     font-size: 3.998em;
     margin-top: 2em;
@@ -126,6 +136,8 @@ nav a:link, a:visited {
 
 a:hover, a:active {
     background-color:floralwhite;
+    transition: all 0,8s ease-in-out;
+    transform: scale(1.2);
 }
     
 nav {
@@ -167,7 +179,6 @@ blockquote cite {
 .v1-blockquote {
     opacity: 0.5;
     font-size: 1.8em;
-    padding-bottom: 40px;
     hanging-punctuation: first;
     text-indent: 0.5em;
     color: white;
