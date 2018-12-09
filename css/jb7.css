@@ -193,11 +193,11 @@ img {
 caption {
     padding: 1em;
     font-size: 1.5em;
-    color: cadetblue;
+    color: #565264;
 }
 
 table, th, td {
-    border: 3px solid cadetblue;
+    border: 3px solid #565264;
     text-align: left;
     border-collapse: collapse;
     align-content: center;
@@ -217,12 +217,12 @@ td {
 
 .top-table {
     background-color: blue;
-    color: aliceblue;   
+    color: #706677;   
 }
 
 tr {
-    color: cadetblue;
-    background-color: aliceblue;
+    color: #565264;
+    background-color: white;
     
 }
 
